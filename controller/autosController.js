@@ -68,7 +68,7 @@ const autosController ={
 
             res.write('_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n');
 
-            };
+            }; 
 
         m = false;
 

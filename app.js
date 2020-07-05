@@ -12,7 +12,7 @@ const routeMarcas = require('./routes/marcas');
 const routeSucursales = require('./routes/sucursales');
 
 
-app.listen(3030, ()=>console.log('El servidor esta funcionando en el puerto 3030'));
+app.listen(2020, ()=>console.log('El servidor esta funcionando en el puerto 3030'));
 
 
 app.use('/', routeHome);
