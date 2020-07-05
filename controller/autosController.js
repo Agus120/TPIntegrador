@@ -116,7 +116,7 @@ const autosController ={
 
         let idDato = req.params.dato;
 
-        let luz = false;
+        let m = false;
 
         concesionarias.forEach(function(sucursal){
 
