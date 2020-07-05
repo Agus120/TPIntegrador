@@ -8,11 +8,11 @@ const home ={
 
         res.set({'content-type':'text/plain;charset=utf-8'});
 
-        res.write('___________________________________________________________________________________________________\n\n');
+        res.write('_ _________________________________________________________________________________________________ _\n\n');
 
         res.write('Bienvenido a nuestra pagina web, en la que vas a poder encontrar una gran variedad de concesionarias \n');
 
-        res.write('___________________________________________________________________________________________________\n\n');
+        res.write('_ _________________________________________________________________________________________________ _\n\n');
 
         res.write("Estas son nuestras concesionaras: \n\n");
 
