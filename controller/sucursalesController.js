@@ -8,11 +8,11 @@ const sucursalesController ={
 
         res.set({'content-type':'text/plain;charset=utf-8'});
 
-        res.write('___________________\n\n');
+        res.write('_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n');
 
         res.write('LISTA DE SUCURSALES\n');
 
-        res.write('___________________\n\n');
+        res.write('_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\n');
 
         concesionarias.forEach(sucursal => {
 
