@@ -1,0 +1,23 @@
+{
+  "name": "trabajointegrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agus120/TPIntegrador.git"
+  },
+  "author": "Rocío Agustina Zingariello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agus120/TPIntegrador/issues"
+  },
+  "homepage": "https://github.com/Agus120/TPIntegrador#readme"
+}
